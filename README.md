@@ -48,7 +48,6 @@
 <!--github stats section-->
 <div align="center">
   <h2> Github Stats ⚡</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=wizardofDigits&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats"</>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardofDigits&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs"></>
-
+<img src="https://github-readme-stats.vercel.app/api?username=wizardofDigits&show_icons=true&theme=radical&hide=stars"alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardofDigits&layout=compact&theme=radical" alt="Top Langs"/>
 </div>
